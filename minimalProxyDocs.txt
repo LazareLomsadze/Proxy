@@ -1,1 +1,2 @@
 
+Build 1 main building (master contract), then create cheap copies (proxy contracts) that point to it. They don't hold the building's parts, just the address. When someone interacts with a copy, it forwards the action to the main building, saving tons of money!
