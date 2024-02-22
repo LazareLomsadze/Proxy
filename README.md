@@ -1,5 +1,5 @@
 https://blog.openzeppelin.com/the-state-of-smart-contract-upgrades#diamonds
-
+https://eips.ethereum.org/EIPS/eip-2535
 💚 The Advantages of Minimal Proxy Contracts : 
  
  ⭐ Cost-Efficiency: Deploying a smart contract incurs gas costs. By using minimal proxy contracts, you only pay the deployment cost once for the master contract and significantly lower costs for subsequent deployments.
