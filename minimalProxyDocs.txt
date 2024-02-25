@@ -1,2 +1,5 @@
 
 Build 1 main building (master contract), then create cheap copies (proxy contracts) that point to it. They don't hold the building's parts, just the address. When someone interacts with a copy, it forwards the action to the main building, saving tons of money!
+
+
+https://metaschool.so/courses/build-marketplace-erc404-tokens/lesson/b5817967-ec91-4d92-8cc0-fd055531b9dc try
